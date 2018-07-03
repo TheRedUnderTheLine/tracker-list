@@ -1,411 +1,202 @@
 {
-    "list": [
-        {
-            "name": "YufkaLord",
-            "type": "SBC"
-        },
-        {
-            "name": "Tharms",
-            "type": "SBC"
-        },
-        {
-            "name": "Maginallll",
-            "type": "SBC"
-        },
-        {
-            "name": "Icemourne",
-            "type": "SBC"
-        },
-        {
-            "name": "GriffShaw",
-            "type": "SBC"
-        },
-        {
-            "name": "DOKTORPUSZ",
-            "type": "SBC"
-        },
-        {
-            "name": "Spekus",
-            "type": "SBC"
-        },
-        {
-            "name": "Mrunibro",
-            "type": "SBC"
-        },
-        {
-            "name": "Lytsu",
-            "type": "SBC"
-        },
-        {
-            "name": "June",
-            "type": "SBC"
-        },
-        {
-            "name": "YungPengu",
-            "type": "SBC"
-        },
-        {
-            "name": "Paluu",
-            "type": "SBC"
-        },
-        {
-            "name": "Neuro",
-            "type": "SBC"
-        },
-        {
-            "name": "Botkiller",
-            "type": "SBC"
-        },
-        {
-            "name": "Baanana",
-            "type": "SBC"
-        },
-        {
-            "name": "Cloud",
-            "type": "SBC"
-        },
-        {
-            "name": "Falkxb",
-            "type": "SBC"
-        },
-        {
-            "name": "Icedemoon",
-            "type": "SBC"
-        },
-        {
-            "name": "Lunaire",
-            "type": "SBC"
-        },
-        {
-            "name": "Martskart",
-            "type": "SBC"
-        },
-        {
-            "name": "Maxhello",
-            "type": "SBC"
-        },
-        {
-            "name": "Dash",
-            "type": "SBC"
-        },
-        {
-            "name": "Cruse",
-            "type": "SBC"
-        },
-        {
-            "name": "Aw",
-            "type": "SBC"
-        },
-        {
-            "name": "Comeasur",
-            "type": "SBC"
-        },
-        {
-            "name": "Lightmare",
-            "type": "SBC"
-        },
-        {
-            "name": "Laydolf",
-            "type": "EDZ"
-        },
-        {
-            "name": "PlayaHaung",
-            "type": "EDZ"
-        },
-        {
-            "name": "TehJulppu",
-            "type": "EDZ"
-        },
-        {
-            "name": "Theepicr",
-            "type": "EDZ"
-        },
-        {
-            "name": "TheRealXXL",
-            "type": "EDZ"
-        },
-        {
-            "name": "Aroundlord",
-            "type": "EDZ"
-        },
-        {
-            "name": "Loopr",
-            "type": "EDZ"
-        },
-        {
-            "name": "Tedbeans",
-            "type": "EDZ"
-        },
-        {
-            "name": "Watersword",
-            "type": "EDZ"
-        },
-        {
-            "name": "Asparagus",
-            "type": "EDZ"
-        },
-        {
-            "name": "Bombbitto",
-            "type": "EDZ"
-        },
-        {
-            "name": "Clcman",
-            "type": "EDZ"
-        },
-        {
-            "name": "LimonLemon",
-            "type": "EDZ"
-        },
-        {
-            "name": "NoelS",
-            "type": "EDZ"
-        },
-        {
-            "name": "Quickstah",
-            "type": "EDZ"
-        },
-        {
-            "name": "MadPeach",
-            "type": "LHZ"
-        },
-        {
-            "name": "CosmicSky",
-            "type": "LHZ"
-        },
-        {
-            "name": "Trixx",
-            "type": "LHZ"
-        },
-        {
-            "name": "Aannddiinn",
-            "type": "LHZ"
-        },
-        {
-            "name": "Desotroya",
-            "type": "LHZ"
-        },
-        {
-            "name": "IWBTGaiden",
-            "type": "LHZ"
-        },
-        {
-            "name": "MMORPGprol",
-            "type": "LHZ"
-        },
-        {
-            "name": "TroomTp",
-            "type": "LHZ"
-        },
-        {
-            "name": "Carterstcl",
-            "type": "LHZ"
-        },
-        {
-            "name": "Cynergyou",
-            "type": "LHZ"
-        },
-        {
-            "name": "Garbley",
-            "type": "LHZ"
-        },
-        {
-            "name": "HK",
-            "type": "LHZ"
-        },
-        {
-            "name": "Gorlami",
-            "type": "LHZ"
-        },
-        {
-            "name": "BossTp",
-            "type": "LHZ"
-        },
-        {
-            "name": "Cubby",
-            "type": "LHZ"
-        },
-        {
-            "name": "Fajit",
-            "type": "LHZ"
-        },
-        {
-            "name": "GCSE",
-            "type": "LHZ"
-        },
-        {
-            "name": "Iowa",
-            "type": "LHZ"
-        },
-        {
-            "name": "Nanoset",
-            "type": "LHZ"
-        },
-        {
-            "name": "GGginger",
-            "type": "LHZ"
-        },
-        {
-            "name": "MammothOrg",
-            "type": "LHZ"
-        },
-        {
-            "name": "MikeMBH",
-            "type": "LHZ"
-        },
-        {
-            "name": "Slayheaven",
-            "type": "LHZ"
-        },
-        {
-            "name": "XCReePRX",
-            "type": "LHS"
-        },
-        {
-            "name": "OtakuZach",
-            "type": "LHS"
-        },
-        {
-            "name": "RedDragoni",
-            "type": "LHS"
-        },
-        {
-            "name": "AtaraxY",
-            "type": "LHS"
-        },
-        {
-            "name": "DieRichBan",
-            "type": "LHS"
-        },
-        {
-            "name": "Fioreen",
-            "type": "LHS"
-        },
-        {
-            "name": "Heyyoutwo",
-            "type": "LHS"
-        },
-        {
-            "name": "RandomeLoL",
-            "type": "LHS"
-        },
-        {
-            "name": "Viction",
-            "type": "LHS"
-        },
-        {
-            "name": "Anvil",
-            "type": "LHS"
-        },
-        {
-            "name": "Catbattle",
-            "type": "LHS"
-        },
-        {
-            "name": "MasonRB",
-            "type": "LHS"
-        },
-        {
-            "name": "IDontHate",
-            "type": "LHS"
-        },
-        {
-            "name": "Lanisaide",
-            "type": "LHS"
-        },
-        {
-            "name": "Downdraft",
-            "type": "LHS"
-        },
-        {
-            "name": "Dylanxdman",
-            "type": "LHS"
-        },
-        {
-            "name": "Zockerguy",
-            "type": "LHS"
-        },
-        {
-            "name": "Evlova",
-            "type": "LHS"
-        },
-        {
-            "name": "Gyohwalhan",
-            "type": "LHS"
-        },
-        {
-            "name": "Cucked",
-            "type": "LHS"
-        },
-        {
-            "name": "SenorUvas",
-            "type": "LHS"
-        },
-        {
-            "name": "Aonroiz",
-            "type": "LHS"
-        },
-        {
-            "name": "Sceptor",
-            "type": "LHS"
-        },
-        {
-            "name": "Potsaccbg",
-            "type": "LHS"
-        },
-        {
-            "name": "Mutza",
-            "type": "LHS"
-        },
-        {
-            "name": "Illdienow",
-            "type": "LHS"
-        },
-        {
-            "name": "Yayayhjgbh",
-            "type": "LHS"
-        },
-        {
-            "name": "Brett",
-            "type": "Shatters"
-        },
-        {
-            "name": "Ke",
-            "type": "Shatters"
-        },
-        {
-            "name": "Embrace",
-            "type": "Shatters"
-        },
-        {
-            "name": "Dieyougods",
-            "type": "Shatters"
-        },
-        {
-            "name": "Manaphy",
-            "type": "Shatters"
-        },
-        {
-            "name": "Teatotal",
-            "type": "Shatters"
-        },
-        {
-            "name": "Jobiebros",
-            "type": "Shatters"
-        },
-        {
-            "name": "Kaysie",
-            "type": "Shatters"
-        },
-        {
-            "name": "Rapti",
-            "type": "Shatters"
-        },
-        {
-            "name": "Uzi",
-            "type": "Shatters"
-        },
-        {
-            "name": "Misteraven",
+    "list": {
+        "SBC": [
+            {"name":"YufkaLord"},
+            {"name":"Tharms"},
+            {"name":"Maginallll"},
+            {"name":"Icemourne"},
+            {"name":"GriffShaw"},
+            {"name":"DOKTORPUSZ"},
+            {"name":"Spekus"},
+            {"name":"Mrunibro"},
+            {"name":"Lytsu"},
+            {"name":"June"},
+            {"name":"YungPengu"},
+            {"name":"Paluu"},
+            {"name":"Neuro"},
+            {"name":"Botkiller"},
+            {"name":"Baanana"},
+            {"name":"Cloud"},
+            {"name":"Falkxb"},
+            {"name":"Icedemoon"},
+            {"name":"Lunaire"},
+            {"name":"Martskart"},
+            {"name":"Maxhello"},
+            {"name":"Dash"},
+            {"name":"Curse"},
+            {"name":"Aw"},
+            {"name":"Comeasur"},
+        ],
+        
+        "LHZ": [
+            {"name":"Lightmare"},
+            {"name":"MadPeach"},
+            {"name":"CosmicSky"},
+            {"name":"Trixx"},
+            {"name":"Aannddiinn"},
+            {"name":"Desotroya"},
+            {"name":"IWBTGaiden"},
+            {"name":"MMORPGprol"},
+            {"name":"TroomTp"},
+            {"name":"Carterstcl"},
+            {"name":"Cynergyou"},
+            {"name":"Garbley"},
+            {"name":"HK"},
+            {"name":"Gorlami"},
+            {"name":"BossTp"},
+            {"name":"Cubby"},
+            {"name":"Fajit"},
+            {"name":"GCSE"},
+            {"name":"Iowa"},
+            {"name":"Nanoset"},
+            {"name":"GGginger"},
+            {"name":"MammothOrg"},
+            {"name":"MikeMBH"},
+            {"name":"Slayheaven"},
+        ],
+        
+        "LHS": [
+            {"name":"RedDragoni"},
+            {"name":"OtakuZach"},
+            {"name":"XCReePRX"},
+            {"name":"AtaraxY"},
+            {"name":"DieRichBan"},
+            {"name":"Fioreen"},
+            {"name":"Heyyoutwo"},
+            {"name":"RandomeLoL"},
+            {"name":"Viction"},
+            {"name":"Anvii"},
+            {"name":"Catbattle"},
+            {"name":"MasonRB"},
+            {"name":"IDontHate"},
+            {"name":"Lanisaide"},
+            {"name":"Downdraft"},
+            {"name":"Dylanxdman"},
+            {"name":"Zockerguy"},
+            {"name":"Evlova"},
+            {"name":"Gyohwalhan"},
+            {"name":"Cucked"},
+            {"name":"SenorUvas"},
+            {"name":"Aonroiz"},
+            {"name":"Sceptor"},
+            {"name":"Potsaccbg"},
+            {"name":"Mutza"},
+            {"name":"Yayayhjgbh"},
+            {"name":"Dianna"},
+            {"name":"Illdienow"},
+            {"name":"Leecherr"},
+            {"name":"Cienisty"},
+            {"name":"Jkloljkioi"},
+            {"name":"AWildWoolf"},
+            {"name":"Ruler"},
+            {"name":"SlippyTwit"},
+            {"name":"Batty"},
+            {"name":"Cansonio"},
+            {"name":"MulePotPie"},
+            {"name":"Shengkia"},
+            {"name":"Lexiel"},
+        ],
+
+        "EDZ": [
+            {"name":"Laydolf"},
+            {"name":"PlayaHaung"},
+            {"name":"TehJulppu"},
+            {"name":"Theepicr"},
+            {"name":"TheRealXXL"},
+            {"name":"Aroundlord"},
+            {"name":"Loopr"},
+            {"name":"Tedbeans"},
+            {"name":"Watersword"},
+            {"name":"Asparagus"},
+            {"name":"Bombbitto"},
+            {"name":"Clcman"},
+            {"name":"LimonLemon"},
+            {"name":"NoelS"},
+            {"name":"Quickstah"},
+        ],
+
+        "Shatters": [
+            {"name":"Brett"},
+            {"name":"Ke"},
+            {"name":"Embrace"},
+            {"name":"Dieyougods"},
+            {"name":"Manaphy"},
+            {"name":"Teatotal"},
+            {"name":"Jobiebros"},
+            {"name":"Kaysie"},
+            {"name":"Rapti"},
+            {"name":"Uzi"},
+            {"name":"Misteraven"},
+            {"name":"Zack"},
+            {"name":"Zacksoccer"},
+            {"name":"Lodestar"},
+            {"name":"FIoof"},
+            {"name":"SeaWgirl"},
+        ],
+        
+        
+            "trackedItems": [
+        {
+            "id": 583,
+            "name": "Vial of Pure Darkness"
+        },
+        {
+            "id": 2991,
+            "name": "Lost Halls Key"
+        },
+        {
+            "id": 3293,
+            "name": "Shatters Key"
+        },
+        {
+            "id": 4252,
+            "name": "The Nest Key"
+        },
+        {
+            "id": 1932,
+            "name": "Parasite Chambers Key"
+        },
+        {
+            "id": 1808,
+            "name": "Tomb of the Ancients Key"
+        },
+        {
+            "id": 29804,
+            "name": "Puppet Master's Encore Key"
+        },
+        {
+            "id": 3284,
+            "name": "Draconis Key"
+        },
+        {
+            "id": 8852,
+            "name": "Shaitan's Key"
+        },
+        {
+            "id": 9042,
+            "name": "Theatre Key",
+            "event": "true"
+        },
+        {
+            "id": 303,
+            "name": "Mountain Temple Key",
+            "event": "true"
+        }
+    ],
+    "blacklistedMembers": [
+        "SoulGamr",
+        "Beginning",
+        "Ziar",
+        "Poptarts",
+        "E"
+    ],
+    "blacklistedGuilds": [
+        "Server Error"
+    ]
+        
+}
+
+
             "type": "Shatters"
         },
         {
